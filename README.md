@@ -33,4 +33,4 @@ The project
 * n   time shift (greater than or equal to zero, integer)
 
 
-Author **Corentin COUTRET-ROZET** and **Lilian VERLHAC**
+Author [**Corentin COUTRET-ROZET**](https://github.com/sheiiva) and [**Lilian VERLHAC**](https://github.com/Harmos274)
